@@ -5,14 +5,9 @@ h1 {
   padding-bottom: 6px;
   color: orange;
 }
-article {
-  img {
-    width=200px;
-  }
-}
 img {
-    width=100px;
-  }
+    width=10px;
+}
 .center-image {
   display: block;
   margin: auto;
