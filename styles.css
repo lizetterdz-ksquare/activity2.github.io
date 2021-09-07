@@ -5,13 +5,8 @@ h1 {
   padding-bottom: 6px;
   color: orange;
 }
-article{
-  img {
-    width: 700px;
-  }
-}
 img {
-    width: 250px;
+    width: 300px;
 }
 .center-image {
   display: block;
